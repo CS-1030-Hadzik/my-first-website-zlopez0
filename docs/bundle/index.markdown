@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "My Home Page"
+title: "Scott's Page"
 ---
 
-This is my website
+Scott's website
 
 [Link to another page](./another-page.html).
 
