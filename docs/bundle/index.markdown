@@ -5,7 +5,7 @@ title: "Zachary's Page"
 
 Zachary's website
 
-[Link to another page](./another-page.html).
+[Link to another page](./about).
 
 There should be whitespace between paragraphs.
 
