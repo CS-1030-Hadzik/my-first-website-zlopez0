@@ -1,7 +1,7 @@
 title: Zachary's Website
 email: zacharylopez@mail.weber.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  My awesome website is about my and my best friend Alex. Not only is she
+  My awesome website is about me and my best friend Alex. Not only is she
   a great friend but she is also my neice.
 logo: "/assets/images/AlexWithMe.jpg"
 baseurl: "/my-first-website-zlopez0" # the subpath of your site
