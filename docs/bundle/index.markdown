@@ -11,13 +11,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Header 1: About My Page
 
 This is my first website and I want it to be about my neice and me. She is an amazing person and I enjoy spending
 time with her. We both learn a lot when we are together and she has helped to motivate me into makeing better
 descisions for my life. I appreciate her more than anyone will ever know.
 
-## Header 2
+## Header 2: Quote
 
 >
 >
@@ -27,7 +27,7 @@ descisions for my life. I appreciate her more than anyone will ever know.
 
 
 
-### Header 3
+### Header 3: Java Script
 
 ```js
 // Javascript code with syntax highlighting.
@@ -44,19 +44,19 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### Header 4: Unordered List
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+##### Header 5: Ordered List
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+###### Header 6: Table
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
