@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Zachary's Second Page
 permalink: /about/
 ---
 
