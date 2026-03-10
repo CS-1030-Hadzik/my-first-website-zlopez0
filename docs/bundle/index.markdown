@@ -19,9 +19,13 @@ descisions for my life. I appreciate more than anyone will ever know.
 
 ## Header 2
 
-> This is a blockquote following a header.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+>
+> When SOMEONE is important enough, you do it even if the odds are not in your favor.
+>
+>
+
+
 
 ### Header 3
 
